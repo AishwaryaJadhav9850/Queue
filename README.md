@@ -1,5 +1,5 @@
 ## Circular Queue Implementation in Python using List Data Structure
-[List Queue Python Implementation](https://github.com/AishwaryaJadhav9850/Queue/blob/main/Queue%20ADT%20-%20List%20Implementation.py)
+[Queue Python Implementation using List](https://github.com/AishwaryaJadhav9850/Queue/blob/main/Queue%20ADT%20-%20List%20Implementation.py)
 
 - IDE - Spyder 3.2.6
 
@@ -19,7 +19,7 @@
 ****
 
 ## Circular Double Ended Queue Implementation in Python using List Data Structure
-[List DeQueue Python Implementation](https://github.com/AishwaryaJadhav9850/Queue/blob/main/DeQueue%20ADT%20-%20List%20Implementation.py)
+[De-Queue Python Implementation using List](https://github.com/AishwaryaJadhav9850/Queue/blob/main/DeQueue%20ADT%20-%20List%20Implementation.py)
 
 - IDE - Spyder 3.2.6
 
